@@ -1,5 +1,11 @@
 # algoritmos
 codigo de las tareas
+
+
+http://kio4.com/appinventor/
+
+
+
 par amecatronica, hacer una apliacion en app inventor 2, intentar descargar la aplicacion offline con el emulador, al aprecer solo esta dissponible wn wind0ows.
 en la aplicacion puedo mandarle las ordenes por botones como estaba planificado al principio, 
 
